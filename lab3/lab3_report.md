@@ -31,5 +31,7 @@ Date of finished: 04.11.2024
 5. Создал ссылку на файлы через контекстное меню файла
 
 https://storage.cloud.google.com/petrov-i-s-bucket/panda/3c4151ds-1920.jpg
+
 https://storage.cloud.google.com/petrov-i-s-bucket/panda/b9Oc5EF_25vp_LMQntnlpvkhV5A-1920.jpg
+
 https://storage.cloud.google.com/petrov-i-s-bucket/panda/maxresdefault.jpg
