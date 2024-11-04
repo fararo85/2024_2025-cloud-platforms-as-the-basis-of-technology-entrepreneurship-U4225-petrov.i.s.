@@ -1,12 +1,21 @@
 University: ITMO University
+
 Faculty: FTMI
+
 Course: Cloud platforms as the basis of technology entrepreneurship
+
 Year: 2024
+
 Group: U4225
+
 Author: Petrov Ilya Stanislavovich
+
 Lab: Lab2
+
 Date of create: 25.10.2024
+
 Date of finished: 25.10.2024
+
 1.	Создал Cloud Run из представленного дефолтного сервиса Hello. 
 ![image_2024-10-25_21-13-42](https://github.com/user-attachments/assets/81ed4515-a88d-4f80-9eb5-1bd73f98d66b)
 2.	Перешел по ссылке предоставленной Cloud Run и протестировал сервис.
