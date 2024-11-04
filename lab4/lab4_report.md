@@ -27,9 +27,7 @@ Date of finished: 04.11.2024
 2. Приложение анализирует изображение, распознавая объекты и возвращая классификацию.
 3. API доступен для внешних интеграций с другими сервисами.
 
-![image](https://github.com/user-attachments/assets/806b0870-48ff-4c73-8ac2-1adc6d937328)
-
-
+![image](https://github.com/user-attachments/assets/e7ffaabc-bb61-410e-8a30-fc43629b90db)
 --
 ## Основные компоненты приложения
 
